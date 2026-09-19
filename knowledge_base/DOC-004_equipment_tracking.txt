@@ -1,0 +1,6 @@
+FICTIONAL CONTROLLED DOCUMENT DOC-004 — Equipment Traceability
+
+Equipment used for sample processing must be identified by its unique equipment
+ID. The system should retain the equipment ID with the processing record so an
+authorized reviewer can verify calibration status. This document is fictional
+and for software training only.
