@@ -1,0 +1,7 @@
+FICTIONAL CONTROLLED DOCUMENT DOC-002 — Molecular Run Controls
+
+Each molecular run must include a positive control and a negative control. The
+positive control must be detected and the negative control must not be detected.
+If either requirement fails, the run is invalid, results must not be released,
+and the run must be routed for supervisory review and repeat testing. This
+document is fictional and for software training only.
