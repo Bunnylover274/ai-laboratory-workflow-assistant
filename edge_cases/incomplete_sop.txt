@@ -1,0 +1,11 @@
+FICTIONAL EDGE-CASE SOP — Incomplete Molecular Screen
+
+Receive a poultry sample, prepare it for a fictional molecular test, run the
+assay, and report a positive or negative result.
+
+The document does not specify sample acceptance criteria, preparation volume,
+incubation temperature or time, instrument, controls, detection threshold,
+reviewer qualifications, or repeat-testing rules.
+
+For software testing only. The AI must not fill missing values from general
+laboratory knowledge.
