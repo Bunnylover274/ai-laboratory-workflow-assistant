@@ -1,0 +1,23 @@
+FICTIONAL TRAINING SOP — Rapid Salmonella Screening
+
+Purpose
+Screen poultry rinsate samples for Salmonella using a fictional PCR method.
+This document is for software training only and must not be used in a laboratory.
+
+Procedure
+1. A Sample Receiving Technician verifies the sample ID, sample type, collection
+   date, receipt date, and container condition. Reject leaking or unlabeled samples.
+2. A Laboratory Technician transfers 25 mL of poultry rinsate to an enrichment
+   vessel and adds 225 mL of enrichment broth.
+3. Incubate the enrichment at 37 C for 18 to 24 hours. Record the incubator ID,
+   start time, end time, and actual temperature.
+4. Transfer an aliquot to the PCR preparation area. Record the extraction batch
+   ID and PCR plate ID.
+5. Run the fictional PCR assay with one positive control and one negative control.
+6. The run is valid only when the positive control is detected and the negative
+   control is not detected. A failed control requires review and repeat testing.
+7. A qualified reviewer records the final sample result as Detected, Not Detected,
+   or Inconclusive and approves the result before release.
+
+The SOP does not define the instrument model, PCR target, result threshold,
+repeat-testing limit, or sample-retention period.
