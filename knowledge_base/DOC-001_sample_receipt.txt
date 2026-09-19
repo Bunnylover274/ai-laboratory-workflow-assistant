@@ -1,0 +1,6 @@
+FICTIONAL CONTROLLED DOCUMENT DOC-001 — Sample Receipt Requirements
+
+All received samples must have a unique sample ID, sample type, collection date,
+receipt date, and documented container condition. The receiving technician must
+record an Accepted or Rejected disposition. Rejected samples require a rejection
+reason. This document is fictional and for software training only.
