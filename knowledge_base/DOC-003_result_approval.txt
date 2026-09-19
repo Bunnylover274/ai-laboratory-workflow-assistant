@@ -1,0 +1,7 @@
+FICTIONAL CONTROLLED DOCUMENT DOC-003 — Result Review and Release
+
+Final results may be recorded as Detected, Not Detected, or Inconclusive. A
+qualified reviewer must review control validity, sample results, and unresolved
+exceptions before electronic approval. Results cannot be released without the
+reviewer's identity and approval date and time. This document is fictional and
+for software training only.
